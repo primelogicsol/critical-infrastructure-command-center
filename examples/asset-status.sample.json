@@ -1,0 +1,19 @@
+{
+  "asset_id": "CI-ASSET-001",
+  "asset_type": "pump_station",
+  "service_area": "Central Operations Zone",
+  "operational_status": "degraded",
+  "priority": "high",
+  "last_update": "2026-09-22T10:15:00Z",
+  "current_conditions": {
+    "power_status": "available",
+    "connectivity_status": "intermittent",
+    "field_team_required": true
+  },
+  "decision_status": {
+    "requires_escalation": true,
+    "executive_summary_ready": false,
+    "evidence_record_attached": true
+  },
+  "notice": "Fictional demonstration data only."
+}
